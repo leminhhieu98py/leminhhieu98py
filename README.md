@@ -3,7 +3,7 @@
 - 🌱 I’m currently an FE Engineer at Naver (ReactJS)
 - 🌱 I’m currently learning TS and Vue 3
 - 💞️ I'm friendly and really hope to learn together with you
-- 👀 How to reach me: [Facebook]("https://www.facebook.com/profile.php?id=100011498388656"), [Twitter]("https://twitter.com/LMinhHi28581272")
+- 👀 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100011498388656), [Twitter](https://twitter.com/LMinhHi28581272)
 
 
 <!---
